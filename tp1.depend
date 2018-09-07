@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536289589 source:c:\lab i prog i\tp1calculadora\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+	<conio.h>
+
+1536293969 c:\lab i prog i\tp1calculadora\tp1\tp1.h
+
+1536293230 source:c:\lab i prog i\tp1calculadora\tp1\tp1.c
+
